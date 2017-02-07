@@ -1,0 +1,2 @@
+checkMoistureIntent check
+checkMoistureIntent check sensor
